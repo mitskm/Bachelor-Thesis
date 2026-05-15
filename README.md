@@ -19,6 +19,7 @@ Replication Files:
 
 1. “Replication_File_Data_Handling.ipynb” – Python code for replicating the creation of “conjoint_df.csv”. Includes code for data preprocessing and descriptive results.
 2. “Replication_File_Data_Analysis.R” – R script for replicating all main analyses.
+3. "power_analysis_thesis.R" – R script for replicating the power analysis. 
 
 Miscellaneous:
 
